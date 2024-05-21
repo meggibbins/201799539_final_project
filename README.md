@@ -46,3 +46,5 @@ Zhang, R., Zhang, C.Q. and Rhodes, R.E., 2021. The pathways linking objectively-
 
 Greater London Authority. 2014. Statistical GIS Boundary Files for London. [Online]. [Accessed 21 May 2024]. Available from: https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london
 
+OpenAI. (2024). ChatGPT. [Online]. [Accessed: 21 May 2024].Available from: https://www.openai.com/chatgpt 
+
