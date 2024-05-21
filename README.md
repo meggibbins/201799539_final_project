@@ -4,6 +4,8 @@
 **Background and context**
 
 
+**Audience**
+This analysis is aimed at public health professionals who would be interested in understanding the impact of greenspace on mental well-being.The analysis could provide insights to develop interventions aimed at improving mental health outcomes in urban areas.
 
 **Data**
 
@@ -12,11 +14,15 @@
 - Mental health data comes from the 'Prevalence of Common Mental Health Problems, Borough' dataset published in 2023 by the Greater London Authority. The dataset was accessed via Urban Big Data Centre.
 
 
-**Aims**
+**Aims + objectives**
 
 This project aims to analyse the potential association between area of greenspace across London boroughs and the prevalence of mental health disorders. 
 
-It is aimed at public health professionals who would be interested in understanding the impact of greenspace on mental well-being.The analysis could provide insights to develop interventions aimed at improving mental health outcomes in urban areas.
+  To achieve this, the following objectives will be met:
+- Follow the data science process (data collection, data cleaning, data exploration, data visualisation)
+- Produce two visualisations aimed at public health professionals, one spatial and one non-spatial
+
+
 
 
 
